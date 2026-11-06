@@ -1,0 +1,10 @@
+[
+ {"id":"deposit","title":"예금·적금","type":"안전자산","summary":"원금 변동 가능성을 낮추며, 가까운 목표나 비상금으로 활용해요.","risk":"물가 상승에 실질 구매력이 감소할 수 있고, 상품별 보장 조건이 다릅니다.","source":"금융감독원 금융소비자정보포털 파인","url":"https://fine.fss.or.kr"},
+ {"id":"foreign","title":"해외 지수형 ETF","type":"위험자산","summary":"여러 해외 기업의 흐름을 하나의 지수로 추종하는 자산 유형이에요.","risk":"주식시장 손실과 환율 변동이 함께 반영될 수 있습니다.","source":"한국거래소 ETF 정보","url":"https://www.krx.co.kr"},
+ {"id":"domestic","title":"국내 지수형 ETF","type":"위험자산","summary":"국내 주식시장의 여러 기업에 분산 투자하는 자산 유형이에요.","risk":"국내 시장과 특정 산업의 변동에 영향을 받을 수 있습니다.","source":"한국거래소 ETF 정보","url":"https://www.krx.co.kr"},
+ {"id":"stocks","title":"개별 주식","type":"위험자산","summary":"한 회사의 사업 실적에 직접적으로 영향을 받는 자산 유형이에요.","risk":"회사별 집중 위험이 커서 분산된 지수형 자산보다 변동성이 클 수 있습니다.","source":"금융감독원 금융교육센터","url":"https://www.fss.or.kr"},
+ {"id":"coin","title":"가상자산","type":"고위험자산","summary":"가격 변동 폭이 커서 감당 가능한 범위를 먼저 정해야 해요.","risk":"급격한 가격 변화, 거래소·보관 위험 등이 있습니다.","source":"금융위원회","url":"https://www.fsc.go.kr"},
+ {"id":"dca","title":"나누어 적립하기","type":"공통 원칙","summary":"같은 금액을 일정 기간에 나누어 적립하는 방식입니다.","risk":"가격 하락에 따른 손실 위험 자체가 사라지는 것은 아닙니다.","source":"미국 투자자 보호 안내 Investor.gov","url":"https://www.investor.gov"},
+ {"id":"diversification","title":"분산해서 보유하기","type":"공통 원칙","summary":"서로 다른 자산 유형에 나누면 한 시장에 집중되는 위험을 줄일 수 있어요.","risk":"모든 자산이 함께 하락하는 시기에는 손실이 발생할 수 있어요.","source":"미국 투자자 보호 안내 Investor.gov","url":"https://www.investor.gov"},
+ {"id":"cost","title":"비용과 단기 유혹 조심","type":"공통 원칙","summary":"수수료, 세금, 손실 감내 수준을 계획을 세울 때 함께 고려해야 해요.","risk":"잦은 거래나 과도한 기대는 장기 계획을 해칠 수 있습니다.","source":"금융감독원 금융교육센터","url":"https://www.fss.or.kr"}
+]
